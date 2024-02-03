@@ -1,0 +1,44 @@
+.btn-custom{
+    background-color: #3cab9c;
+    color: #3cab9c;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    
+}
+
+.one{
+    height: 90vh;
+}
+
+.two{
+     background-image: url(/assets/bg.jpg);
+     background-size: cover;
+     background-position: fixed; 
+     background-repeat: no-repeat; 
+}
+
+.t{
+    color: #3cab9c;
+}
+
+.t1{
+    color: azure;
+}
+
+.t2{
+    color: aliceblue;
+}
+
+.btn-custom2{
+    background-color: #3cab9c;
+    color: #3cab9c;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border: none;
+    
+}
